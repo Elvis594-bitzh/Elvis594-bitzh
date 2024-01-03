@@ -1,10 +1,10 @@
 
-<P style="text-align:center">
-<img height=150px src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" />
+<P align="center">
+<img height=180px src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" />
 </P>
 
 <p style="text-align:center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Long+Cang&pause=1000&color=F73DF3&center=true&vCenter=true&random=false&width=900&height=70&separator=%3D&lines=%F0%9F%91%8BHi%2C+I'm+Elvis. A+C%2B%2B+Software+Developer+%3D%E6%BA%90%E7%A0%81%E9%9D%A2%E5%89%8D%EF%BC%8C%E4%BA%86%E6%97%A0%E7%A7%98%E5%AF%86" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Long+Cang&size=40&pause=1000&color=F73DF3&center=true&vCenter=true&random=false&width=900&height=70&separator=%3D&lines=%F0%9F%91%8BHi%2C+I'm+Elvis. A+C%2B%2B+Software+Developer+%3D%E6%BA%90%E7%A0%81%E9%9D%A2%E5%89%8D%EF%BC%8C%E4%BA%86%E6%97%A0%E7%A7%98%E5%AF%86" alt="Typing SVG" /></a>
 </p>
 
 
@@ -85,24 +85,6 @@
     <img alt = "streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elvis594"/>
   </div>
 </div>
-
-<style>
-/* 添加CSS样式以设置区块的布局 */
-.container {
-  display: flex; /* 使用flex布局使得子元素并排显示 */
-}
-
-.block {
-  flex: 1; /* flex: 1确保每个区块有相同的空间 */
-  padding: 10px; /* 添加一些内边距 */
-  text-align: center; /* 文本居中显示 */
-}
-
-.block img {
-  max-width: 100%; /* 确保图片不会超出其容器的宽度 */
-  height: auto; /* 图片高度自动调整以保持纵横比 */
-}
-</style>
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;">
