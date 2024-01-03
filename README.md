@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71B5F&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=60&lines=Hello+World+!;%E6%BA%90%E7%A0%81%E9%9D%A2%E5%89%8D%EF%BC%8C%E4%BA%86%E6%97%A0%E7%A7%98%E5%AF%86)](https://git.io/typing-svg)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F71B5F&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=20&lines=Hello+World+!;%E6%BA%90%E7%A0%81%E9%9D%A2%E5%89%8D%EF%BC%8C%E4%BA%86%E6%97%A0%E7%A7%98%E5%AF%86" alt = "typing-svg">
+</p>
+
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+</div
