@@ -59,6 +59,9 @@
 <td valign="top" width="50%">
 
 ### 🏊‍♂️ Weekly Development Breakdown
+
+</td>
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</td>
