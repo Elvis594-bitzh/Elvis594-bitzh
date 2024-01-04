@@ -17,7 +17,7 @@
 - 🤖 I'm a robotics engineer and hardware DIY developer.
 - 🔭 I’m currently working on Robotics.
 - 🌱 I’m currently learning Robotics with LLM.
-
+- :email: elvis.liang594@gmail.com<br/>
 ---
 
 ### 
@@ -28,7 +28,7 @@
 
 <a href="https://godbolt.org/"><img src="./assets/colored.png"  width="100%" alt="godbolt.org"/></a>
 
-###  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+###  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> A little work:
 ---
 
 <p align="center">
@@ -64,4 +64,13 @@
 <td valign="top" width="50%">
 
 </td>
+</tr>
 
+<tr>
+
+<td valign="top" width="50%">
+<!--START_SECTION:zhihu-->
+<!--END_SECTION:zhihu-->
+<td valign="top" width="50%">
+
+</tr>
