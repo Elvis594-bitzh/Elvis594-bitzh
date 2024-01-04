@@ -31,19 +31,11 @@
 ###  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ---
 
-<table width="960px">
-<tr>
+<img height="173px" src="https://github-readme-stats.vercel.app/api?username=elvis594&show_icons=true&theme=dracula" alt = "github stats"/>
 
-<td valign="top" width="50%">
+<img height="173px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis594&hide=cmake,shell&layout=compact" alt = "github most_language"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=elvis594&show_icons=true&theme=dracula" alt = "github stats"/>
 
-</td>
-
-<td valign="top" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis594&hide=cmake,shell&layout=compact" alt = "github most_language"/>
-</td>
-</tr>
 
 <!-- <div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=elvis594&theme=github" alt = "activity graph"/>
