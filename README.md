@@ -64,34 +64,6 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 192.7 kB Used in GitHub's Storage 
- > 
-> 🏆 28 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I Mostly Code in C** 
-
-```text
-C                        4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-CMake                    3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-
- Last Updated on 04/01/2024 08:46:14 UTC
 <!--END_SECTION:waka-->
 
 
