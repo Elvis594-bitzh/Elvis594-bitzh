@@ -33,8 +33,8 @@
 
 <p align="center">
 
-<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=elvis594&show_icons=true&theme=dracula" alt = "github stats"/>
-<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis594&hide=cmake,shell&layout=compact" alt = "github most_language"/>
+<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=elvis594&show_icons=true&theme=dracula" alt = "github stats"/>
+<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis594&hide=cmake,shell&layout=compact" alt = "github most_language"/>
 
 </p>
 
