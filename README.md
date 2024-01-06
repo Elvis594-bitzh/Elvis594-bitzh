@@ -33,9 +33,8 @@
 
 <p align="center">
 
-
-<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=elvis594&show_icons=true&theme=dracula" alt = "github stats"/>
-<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis594&hide=cmake,shell&layout=compact" alt = "github most_language"/>
+<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=elvis594&show_icons=true&theme=dracula" alt = "github stats"/>
+<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis594&hide=cmake,shell&layout=compact" alt = "github most_language"/>
 
 </p>
 
@@ -76,8 +75,9 @@
 
 </tr>
 </td>
-
 <table width="1080px">
+
+✅ **Weekly Development Breakdown**
 
 --- 
 
@@ -86,8 +86,6 @@
 <td valign="top" width="50%">
 
 <!--START_SECTION:waka-->
-
-✅ **Weekly Development Breakdown**
 
 ```rust
 From: 29 December 2023 - To: 05 January 2024
