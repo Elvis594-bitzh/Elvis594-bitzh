@@ -57,6 +57,18 @@
 <td valign="top" width="50%">
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 29 December 2023 - To: 05 January 2024
+
+Total Time: 8 hrs 43 mins
+
+Python       4 hrs 25 mins   >>>>>>>>>>>>>------------   50.59 %
+Markdown     55 mins         >>>----------------------   10.61 %
+Docker       16 mins         >------------------------   03.06 %
+Other        2 mins          -------------------------   00.42 %
+```
+
 <!--END_SECTION:waka-->
 
 </td>
