@@ -21,7 +21,7 @@
 ---
 
 ### 
-<a href="https://godbolt.org/" target='_blank'>
+<a href='https://godbolt.org/' target='_blank'>
 
 <p style="text-align:center">
     <img src="https://skillicons.dev/icons?i=cpp,rust,py,ros,raspberrypi,vim,linux,cmake" />
