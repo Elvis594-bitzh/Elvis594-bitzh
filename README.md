@@ -101,8 +101,4 @@ Other        2 mins          -------------------------   00.42 %
 <!--END_SECTION:waka-->
 
 </td>
-
-<td valign="top" width="50%">
-
-</td>
 </tr>
