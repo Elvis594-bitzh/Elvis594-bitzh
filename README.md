@@ -51,10 +51,10 @@
 
 ### 📱Social Information
 ---
-<table width="960px">
+<table width="1080px">
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 📺**哔哩哔哩(゜-゜)つロ干杯~** 
 
@@ -75,12 +75,15 @@
 <!-- END_SECTION:douban -->
 
 </tr>
+</td>
+
+<table width="1080px">
+
+--- 
 
 <tr>
 
 <td valign="top" width="50%">
-
-
 
 <!--START_SECTION:waka-->
 
