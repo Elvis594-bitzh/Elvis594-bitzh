@@ -69,8 +69,13 @@
 <tr>
 
 <td valign="top" width="50%">
-<!--START_SECTION:zhihu-->
-<!--END_SECTION:zhihu-->
+
+<!-- START_SECTION:bilibili -->
+<!-- END_SECTION:bilibili -->
+
 <td valign="top" width="50%">
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
 
 </tr>

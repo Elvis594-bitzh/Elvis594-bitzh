@@ -1,5 +1,5 @@
 name: Social Readme
-
+run-name: ${{ github.actor }} update Social Readme 🚀
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -12,7 +12,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: elvis594/social-readme@master
         with:
-          blog_rss_link: your blog rss link
-          douban_name: your douban username
+          douban_id: '186240167'
+          bilibili_id: '1802901'
