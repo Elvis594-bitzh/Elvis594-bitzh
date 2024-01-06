@@ -1,5 +1,5 @@
 <p style="text-align:center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Long+Cang&size=40&pause=1000&color=F73DF3&center=true&vCenter=true&random=false&width=900&height=70&separator=%3D&lines=%F0%9F%91%8BHi%2C+I'm+Elvis. A+C%2B%2B+Software+Developer+%3D%E6%BA%90%E7%A0%81%E9%9D%A2%E5%89%8D%EF%BC%8C%E4%BA%86%E6%97%A0%E7%A7%98%E5%AF%86" alt="Typing SVG" /></a>
+<a href="https://github.com/elvis594"><img src="https://readme-typing-svg.demolab.com?font=Long+Cang&size=40&pause=1000&color=F73DF3&center=true&vCenter=true&random=false&width=900&height=70&separator=%3D&lines=%F0%9F%91%8BHi%2C+I'm+Elvis. A+C%2B%2B+Software+Developer+%3D%E6%BA%90%E7%A0%81%E9%9D%A2%E5%89%8D%EF%BC%8C%E4%BA%86%E6%97%A0%E7%A7%98%E5%AF%86" alt="Typing SVG" /></a>
 </p>
 
 
@@ -21,10 +21,14 @@
 ---
 
 ### 
+<a href="https://godbolt.org/" target='_blank'>
+
 <p style="text-align:center">
     <img src="https://skillicons.dev/icons?i=cpp,rust,py,ros,raspberrypi,vim,linux,cmake" />
     <img src="https://skillicons.dev/icons?i=vscode,blender,flutter,git,github,gitlab,md,sqlite" />
 </p>
+
+</a>
 
 <a href="https://godbolt.org/"><img src="./assets/colored.png"  width="100%" alt="godbolt.org"/></a>
 
