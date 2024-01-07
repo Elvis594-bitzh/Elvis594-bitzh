@@ -95,14 +95,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Total Time: 8 hrs 43 mins
+Total Time: 12 hrs 37 mins
 
-Python       4 hrs 25 mins   >>>>>>>>>>>>>------------   50.59 %
-Markdown     55 mins         >>>----------------------   10.61 %
-Docker       16 mins         >------------------------   03.06 %
-Other        2 mins          -------------------------   00.42 %
+Python       6 hrs 17 mins   >>>>>>>>>>>--------------   42.87 %
+Other        2 hrs 1 min     >>>----------------------   13.86 %
 ```
 
 <!--END_SECTION:waka-->
