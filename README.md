@@ -4,10 +4,9 @@
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=elvis594)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E8%B4%A4%E8%B1%AA-%E6%A2%81-93685a287/)
-[![Zhihu Badge](https://img.shields.io/badge/-@Elvis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://www.zhihu.com/people/594-26)](https://www.zhihu.com/people/594-26)
-[![bilibili badge](https://img.shields.io/badge/-Bilibili-pink?style=flat-square&logo=bilibili&logoColor=#00A1D)](https://space.bilibili.com/1802901?spm_id_from=333.1007.0.0)
-[![leetcode_badge](https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&logoColor=#FFA116/)](https://leetcode.cn/u/_elvis/)
+[![zhihulink][zhihu-badge]][zhihu-link]
+[![bilibili-link][bilibili-badge]][bilibili-link]
+[![leetcode-link][leetcode-badge]][leetcode-link]
 
 
 ### 🙋About me:
@@ -106,3 +105,14 @@ Other        2 mins          -------------------------   00.42 %
 
 </td>
 </tr>
+
+<!-- Markdown link & img dfn's -->
+[zhihu-badge]: https://img.shields.io/badge/-@Elvis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://www.zhihu.com/people/594-26
+[zhihu-link]:https://www.zhihu.com/people/594-26
+
+[bilibili-badge]: https://img.shields.io/badge/-Bilibili-pink?style=flat-square&logo=bilibili&logoColor=#00A1D
+
+[bilibili-link]:https://space.bilibili.com/1802901?spm_id_from=333.1007.0.0
+
+[leetcode-badge]:https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&logoColor=#FFA116/
+[leetcode-link]:https://leetcode.cn/u/_elvis/
