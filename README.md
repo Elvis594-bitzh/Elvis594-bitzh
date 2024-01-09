@@ -72,11 +72,11 @@
 ✨ **Funny Soul** 
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/36025639/' target='_blank'>看过瑞克和莫蒂 第七季</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-07
-* <a href='http://movie.douban.com/subject/36538847/' target='_blank'>看过泰勒·斯威夫特：时代巡回演唱会</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-06
-* <a href='https://music.douban.com/subject/36699244/' target='_blank'>听过圣诞星 (feat. 杨瑞代)</a> 🌟🌟🌟🌟☆ 推荐- 2024-01-06
-* <a href='http://movie.douban.com/subject/35725869/' target='_blank'>看过年会不能停！</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-06
-* <a href='https://book.douban.com/subject/1943703/' target='_blank'>最近在读一个红卫兵的自白</a> 🌟🌟🌟🌟🌟 力荐- 2018-10-22
+* <a href='http://movie.douban.com/subject/1291561/' target='_blank'>看过千与千寻</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-08
+* <a href='http://movie.douban.com/subject/1291546/' target='_blank'>看过霸王别姬</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-08
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-08
+* <a href='http://movie.douban.com/subject/35579652/' target='_blank'>想看养蜂人</a> - 2024-01-08
+* <a href='http://movie.douban.com/subject/36212391/' target='_blank'>想看流浪地球3</a> - 2024-01-08
 <!-- END_SECTION:douban -->
 
 </tr>
