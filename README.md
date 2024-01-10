@@ -94,12 +94,11 @@
 <!--START_SECTION:waka-->
 
 ```cpp
-From: 03 January 2024 - To: 07 January 2024
+From: 03 January 2024 - To: 08 January 2024
 
-Total Time: 14 hrs 24 mins
+Total Time: 17 hrs 13 mins
 
-Python       6 hrs 17 mins   >>>>>>>>-----------------   33.47 %
-Other        4 hrs 22 mins   >>>>>>-------------------   23.33 %
+Other        7 hrs 1 min     >>>>>>>------------------   28.96 %
 ```
 
 <!--END_SECTION:waka-->
