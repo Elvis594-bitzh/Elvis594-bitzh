@@ -61,10 +61,8 @@
 📺**哔哩哔哩(゜-゜)つロ干杯~** 
 
 <!-- START_SECTION:bilibili -->
-* <a href='https://t.bilibili.com/883578766860746755' target='_blank'>￼hello world.
-
-跟c++沾边的都是不错的。</a>
-* <a href='https://t.bilibili.com/881902892105072680' target='_blank'>【纳萨力克之王】【狩猎活动】剑狼 0氪  15000+分攻略</a>
+* <a href='https://t.bilibili.com/883578766860746755' target='_blank'>￼hello world. 跟c++沾边的都是不错的。</a>
+* <a href='https://t.bilibili.com/881902892105072680' target='_blank'>【纳萨力克之王】【狩猎活动】剑狼 0氪 15000+分攻略</a>
 <!-- END_SECTION:bilibili -->
 
 <td valign="top" width="50%">
