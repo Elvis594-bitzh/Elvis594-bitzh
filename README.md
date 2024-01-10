@@ -105,9 +105,11 @@ Other        7 hrs 1 min     >>>>>>>------------------   28.96 %
 </tr>
 
 <table width="1080px">
----
+
 
 👍 **Knowledge and answers**
+
+---
 
 <tr>
 <td valign="top" width="50%">
