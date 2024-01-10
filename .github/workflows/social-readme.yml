@@ -14,5 +14,7 @@ jobs:
     steps:
       - uses: elvis594/social-readme@master
         with:
+          rss_hub_link: 'http://8.134.95.44:1200'
           douban_id: '186240167'
           bilibili_id: '1802901'
+          zhihu_id: '594-26'

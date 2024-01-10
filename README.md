@@ -107,6 +107,17 @@ Other        2 hrs 1 min     >>>----------------------   13.86 %
 </td>
 </tr>
 
+<tr>
+<td valign="top" width="50%">
+
+👍 **Knowledge and answers**
+
+<!--START_SECTION:zhihu-->
+<!--END_SECTION:zhihu-->
+
+</td>
+</tr>
+
 <!-- Markdown link & img dfn's -->
 [zhihu-badge]: https://img.shields.io/badge/-@Elvis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://www.zhihu.com/people/594-26
 [zhihu-link]:https://www.zhihu.com/people/594-26
