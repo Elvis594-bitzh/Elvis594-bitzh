@@ -115,11 +115,11 @@ Other        23 hrs 52 mins  >>>>>>>>>>>>>------------   53.55 %
 <td valign="top" width="50%">
 
 <!-- START_SECTION:zhihu -->
+* <a href='https://www.zhihu.com/question/640043728/answer/3368923149' target='_blank'>Elvis回答了问题: 练好外语口语 对嵌入式程序员未来有好处吗？</a>
 * <a href='https://www.zhihu.com/question/546345232/answer/2621017579' target='_blank'>Elvis赞同了回答: 你认为什么是机甲大师？</a>
 * <a href='https://www.zhihu.com/question/632503225/answer/3311888628' target='_blank'>Elvis回答了问题: 下属边界感太强怎么办?</a>
 * <a href='https://zhuanlan.zhihu.com/p/665711991' target='_blank'>Elvis收藏了文章: 如何写一篇高质量的技术文章</a>
 * <a href='https://www.zhihu.com/question/632929802/answer/3310705376' target='_blank'>Elvis回答了问题: CSDN 在帮助程序员解决问题方面有何贡献？</a>
-* <a href='https://www.zhihu.com/question/30147821/answer/3307186885' target='_blank'>Elvis回答了问题: 工作后，你悟出什么职场道理？</a>
 <!-- END_SECTION:zhihu -->
 
 </td>
