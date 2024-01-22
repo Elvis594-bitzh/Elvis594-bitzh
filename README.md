@@ -70,11 +70,11 @@
 ✨ **Funny Soul** 
 
 <!-- START_SECTION:douban -->
+* <a href='https://music.douban.com/subject/1402610/' target='_blank'>听过偷心</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-21
 * <a href='http://movie.douban.com/subject/1291561/' target='_blank'>看过千与千寻</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-08
 * <a href='http://movie.douban.com/subject/1291546/' target='_blank'>看过霸王别姬</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-08
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-08
 * <a href='http://movie.douban.com/subject/35579652/' target='_blank'>想看养蜂人</a> - 2024-01-08
-* <a href='http://movie.douban.com/subject/36212391/' target='_blank'>想看流浪地球3</a> - 2024-01-08
 <!-- END_SECTION:douban -->
 
 </tr>
@@ -115,11 +115,11 @@ Other        24 hrs 16 mins  >>>>>>>>>>>>>------------   53.95 %
 <td valign="top" width="50%">
 
 <!-- START_SECTION:zhihu -->
-* <a href='https://www.zhihu.com/question/640043728/answer/3368923149' target='_blank'>Elvis回答了问题: 练好外语口语 对嵌入式程序员未来有好处吗？</a>
-* <a href='https://www.zhihu.com/question/546345232/answer/2621017579' target='_blank'>Elvis赞同了回答: 你认为什么是机甲大师？</a>
-* <a href='https://www.zhihu.com/question/632503225/answer/3311888628' target='_blank'>Elvis回答了问题: 下属边界感太强怎么办?</a>
-* <a href='https://zhuanlan.zhihu.com/p/665711991' target='_blank'>Elvis收藏了文章: 如何写一篇高质量的技术文章</a>
-* <a href='https://www.zhihu.com/question/632929802/answer/3310705376' target='_blank'>Elvis回答了问题: CSDN 在帮助程序员解决问题方面有何贡献？</a>
+* <a href='https://www.zhihu.com/question/637279593/answer/3371237373' target='_blank'>Elvis回答了问题: 为什么嵌入式还需要用到上位机？</a>
+* <a href='https://www.zhihu.com/question/636669926/answer/3371235793' target='_blank'>Elvis回答了问题: 怎样练习搭建服务器？</a>
+* <a href='https://www.zhihu.com/question/637210272/answer/3371235247' target='_blank'>Elvis回答了问题: 业内人士如何看待 CSDN 论坛？</a>
+* <a href='https://www.zhihu.com/question/637319780/answer/3371234452' target='_blank'>Elvis回答了问题: 现在对员工谈理想已经没有用了，他们只谈钱，为什么现在年轻员工那么现实了呢？</a>
+* <a href='https://www.zhihu.com/question/638447477/answer/3371228432' target='_blank'>Elvis回答了问题: 学嵌入式真的很烧钱吗?</a>
 <!-- END_SECTION:zhihu -->
 
 </td>
