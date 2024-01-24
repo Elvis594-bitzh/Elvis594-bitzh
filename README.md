@@ -115,11 +115,11 @@ Other        24 hrs 16 mins  >>>>>>>>>>>>>------------   53.95 %
 <td valign="top" width="50%">
 
 <!-- START_SECTION:zhihu -->
+* <a href='https://www.zhihu.com/question/640900604/answer/3373786547' target='_blank'>Elvis回答了问题: 和程序员谈异地恋因为他工作太忙基本聊不上天怎么办?</a>
 * <a href='https://www.zhihu.com/question/637279593/answer/3371237373' target='_blank'>Elvis回答了问题: 为什么嵌入式还需要用到上位机？</a>
 * <a href='https://www.zhihu.com/question/636669926/answer/3371235793' target='_blank'>Elvis回答了问题: 怎样练习搭建服务器？</a>
 * <a href='https://www.zhihu.com/question/637210272/answer/3371235247' target='_blank'>Elvis回答了问题: 业内人士如何看待 CSDN 论坛？</a>
 * <a href='https://www.zhihu.com/question/637319780/answer/3371234452' target='_blank'>Elvis回答了问题: 现在对员工谈理想已经没有用了，他们只谈钱，为什么现在年轻员工那么现实了呢？</a>
-* <a href='https://www.zhihu.com/question/638447477/answer/3371228432' target='_blank'>Elvis回答了问题: 学嵌入式真的很烧钱吗?</a>
 <!-- END_SECTION:zhihu -->
 
 </td>
