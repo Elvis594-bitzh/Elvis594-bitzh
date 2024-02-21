@@ -70,11 +70,11 @@
 ✨ **Funny Soul** 
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/36369452/' target='_blank'>看过飞驰人生2</a> 🌟🌟🌟🌟🌟 力荐- 2024-02-20
 * <a href='https://music.douban.com/subject/1402610/' target='_blank'>听过偷心</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-21
 * <a href='http://movie.douban.com/subject/1291561/' target='_blank'>看过千与千寻</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-08
 * <a href='http://movie.douban.com/subject/1291546/' target='_blank'>看过霸王别姬</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-08
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-08
-* <a href='http://movie.douban.com/subject/35579652/' target='_blank'>想看养蜂人</a> - 2024-01-08
 <!-- END_SECTION:douban -->
 
 </tr>
