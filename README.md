@@ -115,11 +115,11 @@ Other             47 hrs 7 mins   >>>>>>>>>>>>>>>----------   60.87 %
 <td valign="top" width="50%">
 
 <!-- START_SECTION:zhihu -->
+* <a href='https://zhuanlan.zhihu.com/p/638671049' target='_blank'>Elvis收藏了文章: OpenVINO简介</a>
+* <a href='https://zhuanlan.zhihu.com/p/666616975' target='_blank'>Elvis收藏了文章: 向量数据库失宠了？OpenAI 力捧检索增强生成（RAG）技术，对行业来说意味着什么？</a>
 * <a href='https://www.zhihu.com/question/640900604/answer/3373786547' target='_blank'>Elvis回答了问题: 和程序员谈异地恋因为他工作太忙基本聊不上天怎么办?</a>
 * <a href='https://www.zhihu.com/question/637279593/answer/3371237373' target='_blank'>Elvis回答了问题: 为什么嵌入式还需要用到上位机？</a>
 * <a href='https://www.zhihu.com/question/636669926/answer/3371235793' target='_blank'>Elvis回答了问题: 怎样练习搭建服务器？</a>
-* <a href='https://www.zhihu.com/question/637210272/answer/3371235247' target='_blank'>Elvis回答了问题: 业内人士如何看待 CSDN 论坛？</a>
-* <a href='https://www.zhihu.com/question/637319780/answer/3371234452' target='_blank'>Elvis回答了问题: 现在对员工谈理想已经没有用了，他们只谈钱，为什么现在年轻员工那么现实了呢？</a>
 <!-- END_SECTION:zhihu -->
 
 </td>
