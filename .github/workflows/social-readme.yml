@@ -1,8 +1,8 @@
 name: Social Readme
 run-name: ${{ github.actor }} update Social Readme 🚀
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  # schedule:
+  #   - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches:
