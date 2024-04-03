@@ -92,11 +92,11 @@
 <!--START_SECTION:waka-->
 
 ```cpp
-From: 03 January 2024 - To: 31 March 2024
+From: 03 January 2024 - To: 01 April 2024
 
-Total Time: 55 hrs 39 mins
+Total Time: 55 hrs 47 mins
 
-Other             47 hrs 20 mins  >>>>>>>>>>>--------------   45.96 %
+Other             47 hrs 20 mins  >>>>>>>>>>>--------------   45.90 %
 ```
 
 <!--END_SECTION:waka-->
